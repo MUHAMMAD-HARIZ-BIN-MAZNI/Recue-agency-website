@@ -1,2 +1,2 @@
-# Recue-agency-website
+# Rescue-agency-website
 Individual corporate website assignment
